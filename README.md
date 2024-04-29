@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Marke</h1>
 <h3 align="center">A passionate data Scientist</h3>
 
-- 🔭 I’m currently working on **Real estate estimation**
+- 🔭 I’m currently working on **Machine learning Projects**
 
 - 👯 I’m looking to collaborate on **open source project**
 
